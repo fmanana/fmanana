@@ -6,7 +6,7 @@
 <br />
 <br />
 
-  <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/fmanana/fmanana/master/git-header.svg" />
+  <img width="55%" align="right" alt="Github" src="https://resources.github.com/assets/img/site/octocat-help.svg" />
   
 **About Me:**
 
@@ -27,5 +27,3 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 
 ![Fezi's github stats](https://github-readme-stats.vercel.app/api?username=fmanana&show_icons=true&hide_border=true) [![HitCount](http://hits.dwyl.com/fmanana/fmanana.svg)](http://hits.dwyl.com/fmanana/fmanana)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=fmanana.fmanana)
