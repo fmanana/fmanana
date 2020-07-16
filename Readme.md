@@ -6,7 +6,7 @@
 <br />
 <br />
 
-  <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/fmanana/.github/master/.resources/git-header.svg" />
+  <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/fmanana/fmanana/master/git-header.svg" />
   
 **About Me:**
 
