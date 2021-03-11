@@ -12,7 +12,6 @@
 
 - 👨🏽‍💻 Bachelor's Degree in Computer Science
 - ⚡️ Pro-Tip: The more monitors you have, the more your peers will trust you
-- 📫 How to reach me: fezile.manana@protonmail.com
 
 **Languages and Tools:**  
 
