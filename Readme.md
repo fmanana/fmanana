@@ -1,8 +1,7 @@
-## Hi, I'm Fezi, a Developer 🚀 from Swaziland.
+## Something in here is probably outdated, don't read into it too carefully
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/fmanana)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fmanana)
-[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:fezile.manana@protonmail.com)
 <br />
 <br />
 
