@@ -1,4 +1,4 @@
-## Something in here is probably outdated, don't read into it too carefully
+## Welcome! There's not much to see
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/fmanana)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fmanana)
